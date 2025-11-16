@@ -1,0 +1,13 @@
+sql-cheat-sheet/
+│
+├── README.md
+├── cheat-sheet.md         # (markdown version of the cheat sheet)
+└── examples/
+    ├── database_basics.sql
+    ├── table_operations.sql
+    ├── crud_operations.sql
+    ├── joins.sql
+    ├── grouping_aggregates.sql
+    ├── subqueries.sql
+    ├── indexes_constraints.sql
+    └── views.sql
