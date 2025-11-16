@@ -1,0 +1,4 @@
+SHOW DATABASES;
+CREATE DATABASE sample_db;
+USE sample_db;
+DROP DATABASE sample_db;
